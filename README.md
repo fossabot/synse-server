@@ -1,5 +1,6 @@
 [![CircleCI](https://circleci.com/gh/vapor-ware/synse-server.svg?style=shield)](https://circleci.com/gh/vapor-ware/synse-server)
 [![Documentation Status](https://readthedocs.org/projects/synse-server/badge/?version=latest)](http://synse-server.readthedocs.io/en/latest/?badge=latest)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedaniszewski%2Fsynse-server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fedaniszewski%2Fsynse-server?ref=badge_shield)
 <img src="https://github.com/vapor-ware/synse-server/raw/master/assets/logo.png" width=25% align=right>
 
 # Synse Server
@@ -173,6 +174,9 @@ container is named `synse`) would get logs for everything,
 ## License
 Synse is released under GPLv2 - see [LICENSE](license) for more information.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedaniszewski%2Fsynse-server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fedaniszewski%2Fsynse-server?ref=badge_large)
 
 ### Troubleshooting
 
